@@ -1,0 +1,8 @@
+# large
+autocreate=3
+# master
+difficulty=2
+password=mypassword
+world=/data/world.wld
+worldname=Shimmerwood
+worldpath=/data

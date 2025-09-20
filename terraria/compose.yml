@@ -1,0 +1,9 @@
+services:
+  terraria:
+    build: .
+    volumes:
+      - data:/data
+    ports:
+      - "7777:7777"
+volumes:
+  data:
